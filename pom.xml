@@ -33,17 +33,12 @@
 	
 
   <distributionManagement>
+		
 		<repository>
-			<id>maven-test</id>
-			<name>MQU</name>
-			<url>https://maven.anypoint.mulesoft.com/api/v3/organizations/myorg/maven</url>
-			<layout>default</layout>
-		</repository>
-		<snapshotRepository>
 			<id>github</id>
 			<name>GitHub Packages</name>
 			<url>https://maven.pkg.github.com/ghosharijit1986/test</url>
-		</snapshotRepository>
+		</repository>
 	</distributionManagement>
 
 </project>
