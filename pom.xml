@@ -7,7 +7,7 @@
 	<groupId>myorg</groupId>
 	<artifactId>book-store</artifactId>
 	<version>1.0.3</version>
-	<packaging>mule-application</packaging>
+	
 
 	<name>test</name>
 
